@@ -1,6 +1,6 @@
 Name:		texlive-ucalgmthesis
 Version:	52527
-Release:	1
+Release:	2
 Summary:	LaTeX thesis class for University of Calgary Faculty of Graduate Studies
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ucalgmthesis
